@@ -6,7 +6,7 @@
 // ============================================================
 
 // ── CONFIGURATION ──────────────────────────────────────────
-string API_BASE     = "https://YOUR-DOMAIN.com";
+string API_BASE     = "http://kenmarques.pythonanywhere.com/";
 string API_KEY      = "your-lsl-api-key-change-me";
 float  POLL_INTERVAL = 10.0;  // Poll every 10 seconds
 
